@@ -19,6 +19,7 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 # DEALINGS IN THE SOFTWARE.
 #   
+# This is where the main adjustments occured to create SAUL during the summer of 2023
 
 from jetson_utils import cudaAllocMapped, cudaToNumpy
 from pprint import pprint
